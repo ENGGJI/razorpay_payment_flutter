@@ -1,16 +1,7 @@
 # razorpay_payment_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new Flutter project in which I integrated the Razorpay payment gateway.
+Step 1. Register with Razorpay 
+Step 2. Generate API Key
+--After registering yourself now, go to  Dashboard->Account & Settings->Account and product settings->Website and app settings, and now click on API keys.
+Step 3. Now click on Generate Test Key and generate your API Key
